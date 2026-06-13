@@ -22,7 +22,11 @@ I'm working on the PCB right now. It's been difficult to align everything so the
 
 Another BIG problem was that the pcb was too wide. I decided to split the pcb in half and stack the two halves together to get the size requirements, then add breakpoints so I could assemble and solder the pcb together. Thanks to Anicetus for the idea!
 
-![PCB](pcb_done_tp.png)
+![PCB](pcb_done_fr.png)
+
+Final Shape:
+
+![PCB](pcb_after_soldering.png)
 
 
 
