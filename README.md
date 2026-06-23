@@ -12,21 +12,19 @@ This is my first ever project I've made from start to finish, with my own design
 
 I'm hoping to use the skills from this project in others, like my WIP 3d camera (shameless plug)
 
-## Schematic
+## Schematic & PCB
 
-![Schematic](schem_done_actually.png)
-
-## PCB
+<img src=assets\schem_done_actually.png alt="Schematic" width="500"/>
 
 I'm working on the PCB right now. It's been difficult to align everything so the traces are nice, especially since I was forced to wire the keys in a 4x3 grid because of the number of pins
 
 Another BIG problem was that the pcb was too wide. I decided to split the pcb in half and stack the two halves together to get the size requirements, then add breakpoints so I could assemble and solder the pcb together. Thanks to Anicetus for the idea!
 
-![PCB](pcb_done_fr.png)
+<img src=assets\pcb_done_fr.png alt="PCB" width="500" />
 
 Final Shape:
 
-![PCB](pcb_after_soldering.png)
+<img src=assets\pcb_after_soldering.png width="500" />
 
 
 
