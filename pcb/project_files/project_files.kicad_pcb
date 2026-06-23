@@ -657,7 +657,7 @@
 			(uuid "0e812ae1-6dae-40de-9ee2-4d354e066541")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_PCB.stp"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.55 -5.05 0)
 			)
@@ -1499,7 +1499,7 @@
 			(uuid "6ffe488e-2c2b-47ab-b275-aea24511b764")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_PCB.stp"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.55 -5.05 0)
 			)
@@ -1888,7 +1888,7 @@
 			(uuid "66c9e857-69e9-4a5c-bac7-8fd2788bc986")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_PCB.stp"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.55 -5.05 0)
 			)
@@ -2277,7 +2277,7 @@
 			(uuid "46fce18f-872a-4f4e-9a4c-acbeff454bac")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_PCB.stp"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.55 -5.05 0)
 			)
@@ -3675,7 +3675,7 @@
 			(uuid "51651c72-2244-4af2-ab5d-44ca15e1a0f1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_PCB.stp"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.55 -5.05 0)
 			)
@@ -4275,7 +4275,7 @@
 			(uuid "96fc8d3f-20a0-4bac-bfda-478fa8f1ddcd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_PCB.stp"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.55 -5.05 0)
 			)
@@ -5065,7 +5065,7 @@
 			(uuid "5ddfa7d3-86fe-43d4-8e96-fb6fbe311493")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_PCB.stp"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.55 -5.05 0)
 			)
@@ -6203,7 +6203,7 @@
 			(uuid "5b9dca53-5ffc-40ff-81b4-c79d094a0d2a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_PCB.stp"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.55 -5.05 0)
 			)
@@ -6785,7 +6785,7 @@
 			(uuid "e82c5d3f-139a-46ae-925d-829c7242265d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_PCB.stp"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.55 -5.05 0)
 			)
@@ -7939,7 +7939,7 @@
 			(uuid "ca8c5337-dc7a-43af-a851-e3ddf161de2a")
 		)
 		(embedded_fonts no)
-		(model "/home/serenep12/Documents/Git/Hackpiano/Libs/models/OLED_0.91_128x32.stp"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/OLED_0.91_128x32.stp"
 			(offset
 				(xyz 19 -6 2.7)
 			)
@@ -8225,7 +8225,7 @@
 			(uuid "4a05ecdc-2e22-449a-82e7-c2843b389823")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_PCB.stp"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.55 -5.05 0)
 			)
@@ -8910,7 +8910,7 @@
 			(uuid "dd0b7dfa-33f3-4bd0-b389-2e2f9baa02bd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_PCB.stp"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.55 -5.05 0)
 			)
@@ -9430,7 +9430,7 @@
 			(uuid "56594ccf-07af-4437-836b-f1db442d6624")
 		)
 		(embedded_fonts no)
-		(model "/home/serenep12/Documents/Git/Hackpiano/Libs/models/User Library-Encoder EC11E Alps.step"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/User Library-Encoder EC11E Alps.step"
 			(offset
 				(xyz 7.5 -2.5 0)
 			)
@@ -10115,7 +10115,7 @@
 			(uuid "69bf8696-ba49-4c64-ab94-5417fe69296d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_PCB.stp"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.55 -5.05 0)
 			)
@@ -13400,7 +13400,7 @@
 			(uuid "3e2b836b-6546-4108-ac6d-c50f710e0650")
 		)
 		(embedded_fonts no)
-		(model "/home/serenep12/Documents/Git/Hackpiano/Libs/models/seeed-studio-xiao-rp2040-3d-model/Seeed Studio XIAO RP2040 v26.step"
+		(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/seeed-studio-xiao-rp2040-3d-model/Seeed Studio XIAO RP2040 v26.step"
 			(offset
 				(xyz 0 0 0)
 			)
