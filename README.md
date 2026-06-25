@@ -14,23 +14,23 @@ I'm hoping to use the skills from this project in others, like my WIP 3d camera 
 
 ## Schematic & PCB
 
-<img src=assets\schem_done_actually.png alt="Schematic" width="500"/>
+<img src=assets\schem_done_actually.png alt="Schematic" width="800"/>
 
 It was difficult to align everything so the traces are nice, especially since I was forced to wire the keys in a 4x3 grid because of the number of pins
 
 Another BIG problem was that the pcb was too wide. I decided to split the pcb in half and stack the two halves together to get the size requirements, then add breakpoints so I could assemble and solder the pcb together. Thanks to Anicetus for the idea!
 
-<img src=assets\pcb_done_fr.png alt="PCB" width="500" />
+<img src=assets\pcb_done_fr.png alt="PCB" width="800" />
 
 Final Shape:
 
-<img src=assets\pcb_after_soldering.png width="500" />
+<img src=assets\pcb_after_soldering.png width="800" />
 
 ## Case
 
 Working on this rn
 
-<img src=assets\wip_pics\case_done_wowowow.png width="500" />
+<img src=assets\wip_pics\case_done_wowowow.png width="800" />
 
 
 
