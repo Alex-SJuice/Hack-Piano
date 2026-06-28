@@ -20,7 +20,7 @@ It was difficult to align everything so the traces are nice, especially since I 
 
 Another BIG problem was that the pcb was too wide. I decided to split the pcb in half and stack the two halves together to get the size requirements, then add breakpoints so I could assemble and solder the pcb together. Thanks to Anicetus for the idea!
 
-<img src=assets\pcb_done_fr.png alt="PCB" width="800" />
+<img src=assets\pcb_done_frfr.png alt="PCB" width="800" />
 
 Final Shape:
 
@@ -28,9 +28,9 @@ Final Shape:
 
 ## Case
 
-Working on this rn
+Oh my goodness, the case was actually horrible to work on. It mostly stems from the fact that I decided to make a bunch of small details that would be really annoying to change if say, the lid and base were different shapes the entire time. Also someone's got to burn the Onshape splines on a stake.
 
-<img src=assets\case_done_wowowow.png width="800" />
+<img src=assets\case_w_holes.png width="800" />
 
 
 
