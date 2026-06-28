@@ -30,7 +30,7 @@ Final Shape:
 
 Working on this rn
 
-<img src=assets\wip_pics\case_done_wowowow.png width="800" />
+<img src=assets\case_done_wowowow.png width="800" />
 
 
 

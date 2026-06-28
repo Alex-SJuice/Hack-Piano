@@ -6,7 +6,7 @@
 	(property "Reference" "REF**"
 		(at 1.9 5.91 90)
 		(layer "F.SilkS")
-		(uuid "6173ba09-455f-4462-aafe-4348d4e72aa3")
+		(uuid "8a7cd5f9-3f81-4891-bd41-961a53697770")
 		(effects
 			(font
 				(size 1 1)
@@ -17,7 +17,7 @@
 	(property "Value" "SSD1306-0.91-OLED-4pin-128x32"
 		(at 18.5 14 0)
 		(layer "F.Fab")
-		(uuid "5507ca5f-b64c-4069-86ca-85f71c02c2eb")
+		(uuid "07f8f051-9672-4a17-a39e-8635e8699b11")
 		(effects
 			(font
 				(size 1 1)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "24e52b74-bd1b-4bb1-87cb-8c191ea99ae2")
+		(uuid "9d8684fb-4c8e-4f89-83b5-877b245ff662")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -40,7 +40,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "f57916d5-3918-4a14-b32c-b5df945d7eff")
+		(uuid "da6693ce-3c35-4138-817f-2061ce7f1b43")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,7 +57,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "e37b2e98-de82-4204-9ba7-4afd732f1569")
+		(uuid "d95e7ef1-6276-4382-b192-53f1ddb6bb3d")
 	)
 	(fp_line
 		(start 0 12)
@@ -67,7 +67,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "446341c7-78d8-47ec-a735-b2795cc38bed")
+		(uuid "3a59bfc8-b53a-432d-8790-c27b482db365")
 	)
 	(fp_line
 		(start 3.5 0)
@@ -77,7 +77,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "096ce9ae-e631-427d-84b5-be8e28fff5a5")
+		(uuid "382c20e9-7a9b-4b0c-8ed7-e5e3c71b047e")
 	)
 	(fp_line
 		(start 33 0)
@@ -87,7 +87,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "4622010b-8282-4c20-bad3-3af730e3f130")
+		(uuid "f034093a-aae6-4360-b20c-54380694aabf")
 	)
 	(fp_line
 		(start 38 0)
@@ -97,7 +97,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "a61ce57e-23f3-4f6f-9d81-5b4cf278e1ad")
+		(uuid "30b060c0-d4bb-4f98-bc0e-079d26900d76")
 	)
 	(fp_line
 		(start 38 12)
@@ -107,7 +107,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "7bd42db3-89e7-4745-875e-a1d6ccc9178b")
+		(uuid "778dea8b-1ee8-4230-b8bd-150411c27cb0")
 	)
 	(fp_line
 		(start 0 0)
@@ -117,7 +117,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "2afeb003-039a-4f63-8adf-c348646ae0bc")
+		(uuid "fb494dcd-82ff-4558-a0be-afde730220f9")
 	)
 	(fp_line
 		(start 0 12)
@@ -127,7 +127,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "c35de283-13ff-4b69-bb4c-9c5e022e3558")
+		(uuid "50cb23ea-6845-4c90-a3a4-c603cd1278b1")
 	)
 	(fp_line
 		(start 38 0)
@@ -137,7 +137,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "57d86ffa-a7b9-43fb-9133-7537d471092c")
+		(uuid "e3ae5226-0c78-476a-b41b-6d78145e308c")
 	)
 	(fp_line
 		(start 38 12)
@@ -147,12 +147,12 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "2cbf3ac7-9cfe-4a70-af8b-66cda41396a2")
+		(uuid "becc426e-90b2-4c00-8769-dfe015355d6b")
 	)
 	(fp_text user "OLED Panel"
 		(at 19 6 0)
 		(layer "F.SilkS")
-		(uuid "3f76b974-962f-442c-aeec-c113597f2b3a")
+		(uuid "99bf9c47-d545-4611-87e7-56657f165dda")
 		(effects
 			(font
 				(size 1 1)
@@ -163,7 +163,7 @@
 	(fp_text user "GND"
 		(at 34.5 2.19 270)
 		(layer "F.SilkS")
-		(uuid "70aca5ba-5bdd-4f5b-b5da-5f74a2b35354")
+		(uuid "c2205c15-9bcd-4b08-b0a7-263d3106958a")
 		(effects
 			(font
 				(size 0.75 0.75)
@@ -174,7 +174,7 @@
 	(fp_text user "VCC"
 		(at 34.5 4.73 270)
 		(layer "F.SilkS")
-		(uuid "09063e57-e3a1-4fd7-b22b-b4afc2030139")
+		(uuid "f0934ec3-8ead-4d75-97b2-e65593914cb9")
 		(effects
 			(font
 				(size 0.75 0.75)
@@ -185,7 +185,7 @@
 	(fp_text user "SCL"
 		(at 34.5 7.27 270)
 		(layer "F.SilkS")
-		(uuid "60426398-4f6e-4fae-b32f-fd90d2718cf6")
+		(uuid "f837aad3-10c2-4c6c-8a6e-a7549d1dcbcd")
 		(effects
 			(font
 				(size 0.75 0.75)
@@ -196,7 +196,7 @@
 	(fp_text user "SDA"
 		(at 34.5 9.81 270)
 		(layer "F.SilkS")
-		(uuid "649f0cdc-51d1-4241-8ad3-ad8317a542ce")
+		(uuid "4171d792-44d4-4e32-ba36-9c708941a368")
 		(effects
 			(font
 				(size 0.75 0.75)
@@ -210,7 +210,7 @@
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "33010e53-50b1-40bf-ad4a-061b6bd0476e")
+		(uuid "8f72b8bb-c6af-4b6c-b627-2da460624dca")
 	)
 	(pad "2" thru_hole oval
 		(at 36.5 4.73)
@@ -218,7 +218,7 @@
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "33f96583-8025-4925-9943-2450ed5fd205")
+		(uuid "bdea92e3-ffc9-4c5b-8e04-359163e56abe")
 	)
 	(pad "3" thru_hole oval
 		(at 36.5 7.27)
@@ -226,7 +226,7 @@
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "82a6b5f0-c1c1-4903-a047-e9e510acb0b5")
+		(uuid "7358847a-b730-4c56-8661-e1684b10daa8")
 	)
 	(pad "4" thru_hole oval
 		(at 36.5 9.81)
@@ -234,10 +234,10 @@
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "ff1e3681-a05f-4e5a-8ab9-7465e4c11c8d")
+		(uuid "a5fdcc1e-d085-45f8-a4c2-c203ac3687bd")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/예기옥/Documents/GitHub/Hackpiano/pcb/Libs/models/OLED_0.91_128x32.stp"
+	(model "C:/Users/%USERNAME%/Documents/GitHub/Hackpiano/pcb/Libs/models/OLED_0.91_128x32.stp"
 		(offset
 			(xyz 19 -6 2.7)
 		)
