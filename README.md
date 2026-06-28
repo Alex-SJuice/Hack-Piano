@@ -30,6 +30,8 @@ Final Shape:
 
 Oh my goodness, the case was actually horrible to work on. It mostly stems from the fact that I decided to make a bunch of small details that would be really annoying to change if say, the lid and base were different shapes the entire time. Also someone's got to burn the Onshape splines on a stake.
 
+btw all of the overhangs are getting printed with supports (should I provide gcode in that case?)
+
 <img src=assets\case_w_holes.png width="800" />
 
 
