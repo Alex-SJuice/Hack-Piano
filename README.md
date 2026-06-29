@@ -1,8 +1,10 @@
-# Hack Piano WIP
+# Hack Piano
 
 A Hackpad, in the form of a piano!
 
 It can serve as a normal macropad too.
+
+<img src=assets\case_w_holes.png width="500" />
 
 ## Motivation
 
@@ -32,7 +34,17 @@ Oh my goodness, the case was actually horrible to work on. It mostly stems from 
 
 btw all of the overhangs are getting printed with supports (should I provide gcode in that case?)
 
-<img src=assets\case_w_holes.png width="500" />
+<img src=assets\case_only.png width="500" />
 
+## BOM:
+ - 12x Cherry MX Switches
+ - 12x DSA Keycaps (optional but you can get 2u keys for the bottoms 7)
+ - 4x M3x5x4 Heatset inserts
+ - 4x M3x16mm screws
+ - 12x 1N4148 DO-35 Diodes
+ - 1x 0.91" 128x32 OLED Display
+ - 1x EC11 Rotary Encoder
+ - 1x XIAO RP2040
+ - 1x Case (2 printed parts)
 
 
