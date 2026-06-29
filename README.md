@@ -1,4 +1,4 @@
-# Hackpiano WIP
+# Hack Piano WIP
 
 A Hackpad, in the form of a piano!
 
@@ -14,17 +14,17 @@ I'm hoping to use the skills from this project in others, like my WIP 3d camera 
 
 ## Schematic & PCB
 
-<img src=assets\schem_done_actually.png alt="Schematic" width="800"/>
+<img src=assets\schem_done_actually.png alt="Schematic" width="500"/>
 
 It was difficult to align everything so the traces are nice, especially since I was forced to wire the keys in a 4x3 grid because of the number of pins
 
 Another BIG problem was that the pcb was too wide. I decided to split the pcb in half and stack the two halves together to get the size requirements, then add breakpoints so I could assemble and solder the pcb together. Thanks to Anicetus for the idea!
 
-<img src=assets\pcb_done_frfr.png alt="PCB" width="800" />
+<img src=assets\pcb_done_frfr.png alt="PCB" width="500" />
 
 Final Shape:
 
-<img src=assets\pcb_after_soldering.png width="800" />
+<img src=assets\pcb_after_soldering.png width="500" />
 
 ## Case
 
@@ -32,7 +32,7 @@ Oh my goodness, the case was actually horrible to work on. It mostly stems from 
 
 btw all of the overhangs are getting printed with supports (should I provide gcode in that case?)
 
-<img src=assets\case_w_holes.png width="800" />
+<img src=assets\case_w_holes.png width="500" />
 
 
 
