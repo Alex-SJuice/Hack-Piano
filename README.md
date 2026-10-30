@@ -4,6 +4,8 @@ A Hackpad, in the form of a piano!
 
 It can serve as a normal macropad too.
 
+[Showcase](https://youtu.be/vqTRjgcmdTU)
+
 <img src=assets\FINAL.jpg width="500" />
 
 ## Motivation
