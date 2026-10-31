@@ -1,8 +1,10 @@
 # Hack Piano
 
-A Hackpad, in the form of a piano!
+A macropad, in the form of a piano!
 
 It can serve as a normal macropad too.
+
+Made through [Hackpad](https://hackpad.hackclub.com/) and Stardance, hosted by [Hackclub](https://hackclub.com/)!
 
 [Showcase](https://youtu.be/vqTRjgcmdTU)
 
@@ -28,7 +30,7 @@ I'm hoping to use the skills from this project in others, like my WIP 3d camera 
 
 It was difficult to align everything so the traces are nice, especially since I was forced to wire the keys in a 4x3 grid because of the number of pins
 
-Another BIG problem was that the pcb was too wide. I decided to split the pcb in half and stack the two halves together to get the size requirements, then add breakpoints so I could assemble and solder the pcb together. Thanks to Anicetus for the idea!
+Another BIG problem was that the pcb was too wide. I decided to split the pcb in half and stack the two halves together to get the size requirements, then add breakpoints so I could assemble and solder the pcb together. Thanks to Anicetus in the hackclub slack for the idea!
 
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FAlex-SJuice%2FHack-Piano%2Ftree%2Fmain%2Fpcb%2FHackpiano_pcb)
 
@@ -41,8 +43,6 @@ Final Shape:
 ## Case
 
 Oh my goodness, the case was actually horrible to work on. It mostly stems from the fact that I decided to make a bunch of small details that would be really annoying to change if say, the lid and base were different shapes the entire time. Also someone's got to burn the Onshape splines on a stake.
-
-btw all of the overhangs are getting printed with supports (should I provide gcode in that case?)
 
 <img src=assets\case_only.png width="500" />
 
